@@ -11,7 +11,7 @@ Faculty of Industry and Energy | Information Technology Department
 - Major: Information Technology (IT)
 
 ### Skills
-- Programming: Python, Java, SQL
+- Programming: Python, Java, SQL, C, C++
 - Web Development: HTML, CSS, JavaScript
 - Tools: MS Excel, Git, Hardware Integration
 
